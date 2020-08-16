@@ -65,7 +65,7 @@ function draw(){
       }
     }
 
-    if (score === 1) {
+    if (score === 50) {
       gameState = end;
     }    
   }
